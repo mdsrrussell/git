@@ -7,7 +7,7 @@ It is my mission to earn the best feedback from my clients.
 You have come to the right place if you want to grow your business on a small marketing budget.
 It is my goal to help you grow your business.
 
-Among the Websites I can design are:
+##### Among the Websites I can design are:
 
 ➤Web For Agency/Business
 ➤E-Commerce Site / Online Store
@@ -21,7 +21,7 @@ Among the Websites I can design are:
 ➤College/University (Education Website)
 
 
-What can I do for you?
+##### What can I do for you?
 -------------------------------
 ➤Development of WordPress websites
 ➤Developing Shopify websites
