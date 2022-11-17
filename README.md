@@ -6,12 +6,13 @@
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-986288c9-f411-4d61-b2ef-a87a17a4f77f' itemprop='contentURL' style='display: none;'></div>
         <div id='fiverr-widget-seller-data' style='display: none;'>
             <div itemprop='name' >MD SR Russell</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr®</span></div>
             <div itemprop='jobtitle'>Seller</div>
          
 <div itemprop='description'>🖐You're welcome to look at my Profiles.
 I'm MD SR Russell.
-I'm a Professional Web Developer & Online Marketing Specialist. My experience includes.
+I'm a Professional Web Developer & Online Marketing Specialist.
+My experience includes.
 ➤ WordPress 
 ➤ Shopify 
 ➤ WooCommerce 
@@ -25,6 +26,8 @@ I'm a Professional Web Developer & Online Marketing Specialist. My experience in
         </div>
     </a>
 </div>
+
+
 
 
 
