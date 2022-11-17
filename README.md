@@ -8,7 +8,7 @@ You have come to the right place if you want to grow your business on a small ma
 It is my goal to help you grow your business.
 
 Among the Websites I can design are:
-∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+
 ➤Web For Agency/Business
 ➤E-Commerce Site / Online Store
 ➤Game/Product/Landing
@@ -57,7 +57,9 @@ Also, I have strong knowledge of Keyword research, hosting services, migration, 
 
 Thanks.
 
-- 🔭 I’m currently working on https://www.upwork.com/freelancers/~01545d62729b7a360b   https://www.fiverr.com/mdsrrussell 
+- 🔭 I’m currently working on 
+- https://www.upwork.com/freelancers/~01545d62729b7a360b   
+- https://www.fiverr.com/mdsrrussell 
 - 🌱 I’m currently learning online world 
 - 👯 I’m looking to collaborate on https://srrussell.com 
 - 🤔 I’m looking for help with To My Allaha 
