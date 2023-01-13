@@ -34,7 +34,7 @@ It is my goal to help you grow your business.
 ➤Web Site errors fixed
 ➤It's multilingual
 ➤SEO on Page
-➤Using Mailchimp & email marketing
+➤Mailchimp & email marketing
 ➤Protection from hacking
 ➤Support for e-commerce
 ➤Creating winning dropshipping products
@@ -58,8 +58,8 @@ Also, I have strong knowledge of Keyword research, hosting services, migration, 
 Thanks.
 
 - 🔭 I’m currently working on 
-- https://www.upwork.com/freelancers/~01545d62729b7a360b   
-- https://www.fiverr.com/mdsrrussell 
+- https://www.upwork.com/   
+- https://www.fiverr.com/
 - 🌱 I’m currently learning online world 
 - 👯 I’m looking to collaborate on https://srrussell.com 
 - 🤔 I’m looking for help with To My Allaha 
