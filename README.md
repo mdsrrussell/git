@@ -79,8 +79,6 @@ Thanks.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsrrussell&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdsrrussell)  
-
 ![GitHub metrics](https://metrics.lecoq.io/mdsrrussell)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdsrrussell)  
